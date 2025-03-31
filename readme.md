@@ -12,8 +12,3 @@ This project implements a hybrid movie recommendation system using:
 - **Collaborative Filtering** with `SVD`
 - **Content-Based Filtering** using `TF-IDF`
 - **Model Evaluation** using precision and recall
-
----
-
-## 📁 Folder Structure
-
